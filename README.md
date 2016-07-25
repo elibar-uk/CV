@@ -49,8 +49,8 @@ A former airline manager with a background in marketing looking for exiting oppo
 ####Queen Mary’s University of London                 2011
   MSc Management & Organisational Innovation          
 
-####Russian State University of Humanities            2009
-  The faculty of History Political Science and Law       
+####Russian State University for the Humanities       2009
+  The Faculty of History Political Science and Law       
   BSc (Hons.) Public Relation         	                  
 
 
