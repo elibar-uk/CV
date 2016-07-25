@@ -31,7 +31,7 @@ A former airline manager with a background in marketing looking for an opportuni
 | Project       | Repo | Description        | Technologies  |
 | ------------- |-----|:-------------| -----:|
 | Werewolves App| [Front end repo](https://github.com/elibar-uk/werewolves_frontend), [Back end repo](https://github.com/elibar-uk/werewolves_backend)|A mobile app for the very popular game (at Makers Academy) Werewolves, built over 2 weeks in a team of 4. | Rails, PostgreSQL, Ionic, AngularJS |
-| [rails_cleaner](https://rubygems.org/gems/rails_cleaner)  |[Gem repo](https://github.com/elibar-uk/rails_cleaner)|A gem that allows running an executable command to remove unused files generically created by Rails.|Ruby, Rspec|
+| [rails_cleaner](https://rubygems.org/gems/rails_cleaner)  |[Gem repo](https://github.com/elibar-uk/rails_cleaner)|A gem that allows running executable commands to remove unused auto-generated coffee/scss files in rails-project.|Ruby, Rspec|
 | MakersBnB | [MakersBnB repo](https://github.com/elibar-uk/MakersBnB)|An AirBnb clone built using Sinatra. We were able to create the full functionality of AirBnb with users, property listings, booking requests and booking confirmations.   |  Ruby, Sinatra, Postgres /w DataMapper, Bootstrap, RSpec, Capybara|
 
 ## <a name="Education">Education</a>
