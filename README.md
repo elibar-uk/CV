@@ -18,12 +18,12 @@ A former airline manager with a background in marketing looking for exiting oppo
 
 ####Quick learner
 
-  And all it's done through constant learning. It is truly amazing how much you can actually accomplish in just a few weeks. For the Makers Academy final project still being a beginner with JavaScript, I completed a project using two brand-new technologies Ionic framework and decoupled backend. While being quite familiar with Rails, Ionic was not taught on the course and I managed to learn and build a fully functioning mobile app using this framework within two weeks.
+  And all it's done through constant learning. It is truly amazing how much you can actually accomplish in just a few weeks. For the Makers Academy final project still being a beginner with JavaScript, I completed a project using two brand-new technologies Ionic framework and decoupled backend. While being familiar with Rails, Ionic was not taught on the course and I managed to learn and build a fully functioning mobile app using this framework within two weeks.
 
 ####With the system of things
 
   Being proud of my analytical mind-set I really thrive when it comes to complexity. I find it relatively easy to see the big picture. So for example, with one of the projects at Makers I've got a chance to participate in building of a gem, which helps with managing unused files within rails project. I managed to come up with quite a simple solution to the problem we were trying to solve.
-  Another example is one of the major pushes into programming for me was my work on e-Boarder integration project within the time I spent at Transaero Airlines as UK Country Manager. As you may not be aware (I hope you’re not) a few years ago the UK Government has decided to follow the US approach in advancing obtaining passenger information (APIS). I worked in collaboration with IT Department to provide the software allowing the integration of UK Border Agency (e-Borders) into the reservation, check-in system and then to the dispatch part of it as well. This required from me deep and thorough analysis of potential pitfall along all the way of the Airline's operation.  
+  Another example is one of the major pushes into programming for me was my work on e-Boarder integration project within the time I spent at Transaero Airlines as UK Country Manager. As you may not be aware (I hope you’re not) a few years ago the UK Government has decided to follow the US approach in advancing obtaining passenger information (APIS). I worked in collaboration with an IT Department to provide the software allowing the integration of UK Border Agency (e-Borders) into the reservation, check-in system and into the dispatch part of it as well. This required from me deep and thorough analysis of potential pitfall along all the way of the Airline's operation.  
 
 
 ## <a name="Projects">Projects</a>
@@ -36,7 +36,7 @@ A former airline manager with a background in marketing looking for exiting oppo
 
 ## <a name="Education">Education</a>
 
-####Makers Academy                                   2016
+####Makers Academy                                    2016
 
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
@@ -46,22 +46,22 @@ A former airline manager with a background in marketing looking for exiting oppo
 - Rspec, Jasmine, Mocha, Karma, Protractor
 
 
-####Queen Mary’s University of London                 
-  MSc Management & Organisational Innovation          2011
+####Queen Mary’s University of London                 2011
+  MSc Management & Organisational Innovation          
 
-####Russian State University of Humanities           
+####Russian State University of Humanities            2009
   The faculty of History Political Science and Law       
-  BSc (Hons.) Public Relation         	              2009     
+  BSc (Hons.) Public Relation         	                  
 
 
-#### Other qualifications
+#### Other qualifications                             2015
 
- CAM Qualification in Digital Marketing               2015
+ CAM Qualification in Digital Marketing               
  Oxford College of Marketing
 
 ## <a name="Experience">Experience</a>
 
-UK Country Manager     Transaero Airlines      Jun 2012 - Mar 2016
+UK Country Manager     Transaero Airlines      (Jun 2012..Mar 2016)
 
 Key Achievements:
 - 	e-Borders integration project (2013-2015).
@@ -70,7 +70,7 @@ Key Achievements:
 - 	Introduced a first class service on the UK route (2014).
 - 	Active member of the Board of Airline Representatives UK (BAR UK)
 
-Account Executive      PRP(Creative Agency)    Sep 2008 - Aug 2009   
+Account Executive      PRP(Creative Agency)     (Sep 2008..Aug 2009)   
 
 Key Achievements:
 - 	Recognised for the design of creative pitches for Kohler, Husquarna and Beeline (mobile network).
@@ -78,7 +78,7 @@ Key Achievements:
 
 ####Completely unrelated experience
 
-Throughout my life I worked with a few jazz orchestras and bands; was involved in music production also as a talent scout for singers; done freelance marketing for restaurants chain and a property development company for Russia and CIS counties. With all that I managed to pay for all my education without taking a single loan.
+Throughout my life I worked with a few jazz orchestras and bands; was involved in music production also as a talent scout; done freelance marketing for restaurant chain and property development projects in Russia and CIS countries. With all that I managed to pay for all my education without taking a single loan.
 
 ## <a name="Interests">Interests</a>
 
