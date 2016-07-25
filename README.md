@@ -6,15 +6,16 @@
 [About](#About) | [Skills](#Skills) | [Projects](#Projects) |
 [Education](#Education) | [Experience](#Experience) | [Interests](#Interests)
 
-## <a name="about">About</a>
+## <a name="About">About</a>
 A former airline manager with a background in marketing looking for exiting opportunity to start a career as web developer. Having been through a highly intensive course at [Makers Academy](http://www.makersacademy.com/about-us/) I've developed quite a passion for writing a clean, test-driven code.
 
-## <a name="skills">Skills</a>
+## <a name="Skills">Skills</a>
 
 ####Self-starter
 
   I moved to the UK back in 2009 to start my second degree. It was a daunting task, I had nothing, just a bag and a placement at Queen Mary University I didn’t know anyone in London, and I barely spoke the language and had no idea what was to come next. I had to learn fast luckily is an ability I have.
-  After leaving Queens Mary’s with a masters in Management and Organisational Innovations I landed a role in Civil Aviation. This is not a sector I was ever looking to get into and hence had no even remote idea about it or required experience I was in possession of yet still managed to make a name for myself in the industry.   
+  After leaving Queens Mary’s with a masters in Management and Organisational Innovations I landed a role in Civil Aviation. This is not a sector I was ever looking to get into and hence had no even remote idea about it or required experience I was in possession of, yet still managed to make a name for myself in the industry.   
+
 ####Quick learner
 
   And all it's done through constant learning. It is truly amazing how much you can actually accomplish in just a few weeks. For the Makers Academy final project still being a beginner with JavaScript, I completed a project using two band new technologies Ionic framework and decoupled backend. While being quite familiar with Rails, Ionic was not taught on the course and I managed to learn and build a fully functioning mobile app using this framework within two weeks.
@@ -25,7 +26,7 @@ A former airline manager with a background in marketing looking for exiting oppo
   Another example is one of the major pushes into programming for me was my participation in e-Boarder integration project within the time I worked for the Transaero Airlines as UK Country Manger. As you may not be aware (I hope you’re not) a few years ago the UK Government has decided to follow the US approach in advancing obtaining passenger information (APIS). I worked in collaboration with IT Department to provide the software allowing the integration of UK Border Agency (e-Borders) into the reservation, check-in system and then to the dispatch part of it as well. This required from me deep and thorough analysis of potential pitfall along all the way of the Airline's operation.  
 
 
-# <a name="projects">Projects</a>
+## <a name="Projects">Projects</a>
 
 | Project       | Repo | Description        | Technologies  |
 | ------------- |-----|:-------------| -----:|
@@ -65,17 +66,22 @@ UK Country Manager     Transaero Airlines      Jun 2012 - Mar 2016
 Key Achievements:
 - 	e-Borders integration project (2013-2015).
 - 	Codeshare agreement with Virgin Atlantic – 2012.
--  Sponsorship program for Russian Olympic teams participated in London 2012 Olympic & Paralympic Games
+-   Sponsorship program for Russian Olympic teams participated in London 2012 Olympic & Paralympic Games
 - 	Introduced a first class service on the UK route (2014).
 - 	Active member of the Board of Airline Representatives UK (BAR UK)
 
 Account Executive      PRP(Creative Agency)    Sep 2008 - Aug 2009   
+
 Key Achievements:
 - 	Recognised for the design of creative pitches for Kohler, Husquarna and Beeline (mobile network).
 - 	Organised Beeline press-conferences and promotional activities for Exxon Mobil during Bavaria Moscow City Racing 2010, Nespresso corporative events.
 
-# <a name="interests">Interests</a>
+####Completely unrelated experience
 
-- Book picks: 'Brave new World' by Aldous Huxley, 'The Alchemist' by Paulo Coelho, 'One Hundred Years of Solitude' by Gabriel García Márquez.
+Throughout my life I worked in a few jazz orchestras and bands; was involved in music production also as a talent scout for singers; done freelance marketing for restaurants chain and a property development company for Russia and CIS counties. With all that I managed to pay for all my education without taking a single loan.
+
+## <a name="Interests">Interests</a>
+
+- Book picks: Brave new World by Aldous Huxley, The Alchemist by Paulo Coelho, One Hundred Years of Solitude by Gabriel García Márquez.
 - Art picks: Lucian Freud, Frida Kahlo, Marc Chagall (I do paint myself,  was exhibited ones in Winzavod Art Gallery (Moscow)).
-- Music picks:  Radiohead, Flying Pickets, Miles Davis (Have been playing trumpet since I was 11; Was lucky enough to make a dream come true by playing at the stage of Olympic Stadium (Moscow) in front of the audience of 20k+).
+- Music picks:  Radiohead, Flying Pickets, Miles Davis (I have been playing trumpet since I was 11 and was lucky enough to make a dream come true by playing at the stage of Olympic Stadium (Moscow) in front of the audience of 20k+).
