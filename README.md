@@ -12,6 +12,7 @@ A former airline manager with a background in marketing looking for exiting oppo
 ## <a name="skills">Skills</a>
 
 ####Self-starter
+
   I moved to the UK back in 2009 to start my second degree. It was a daunting task, I had nothing, just a bag and a placement at Queen Mary University I didn’t know anyone in London, and I barely spoke the language and had no idea what was to come next. I had to learn fast luckily is an ability I have.
   After leaving Queens Mary’s with a masters in Management and Organisational Innovations I landed a role in Civil Aviation. This is not a sector I was ever looking to get into and hence had no even remote idea about it or required experience I was in possession of yet still managed to make a name for myself in the industry.   
 ####Quick learner
@@ -57,9 +58,10 @@ A former airline manager with a background in marketing looking for exiting oppo
  CAM Qualification in Digital Marketing               2015
  Oxford College of Marketing
 
-## <a name="experience">Experience</a>
+## <a name="Experience">Experience</a>
 
 UK Country Manager     Transaero Airlines      Jun 2012 - Mar 2016
+
 Key Achievements:
 - 	e-Borders integration project (2013-2015).
 - 	Codeshare agreement with Virgin Atlantic – 2012.
