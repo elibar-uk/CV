@@ -7,7 +7,7 @@
 [Education](#Education) | [Experience](#Experience) | [Interests](#Interests)
 
 ## <a name="About">About</a>
-A former airline manager with a background in marketing looking for exiting opportunity to start a career as web developer. Having been through a highly intensive course at [Makers Academy](http://www.makersacademy.com/about-us/) I've developed quite a passion for writing a clean, test-driven code and I am excited to take it to the next level.
+A former airline manager with a background in marketing looking for an opportunity to start a career as web developer. Having been through a highly intensive course at [Makers Academy](http://www.makersacademy.com/about-us/) I've developed quite a passion for writing a clean, test-driven code and I am excited to take it to the next level.
 
 ## <a name="Skills">Skills</a>
 
@@ -83,5 +83,5 @@ Throughout my life I worked with a few jazz orchestras and bands; was involved i
 ## <a name="Interests">Interests</a>
 
 - Book picks: Brave new World by Aldous Huxley, The Alchemist by Paulo Coelho, One Hundred Years of Solitude by Gabriel García Márquez.
-- Art picks: Lucian Freud, Frida Kahlo, Marc Chagall (I do paint myself,  was exhibited ones in Winzavod Art Gallery (Moscow)).
+- Art picks: Lucian Freud, Frida Kahlo, Marc Chagall (I do paint myself,  was exhibited ones at Winzavod Art Gallery (Moscow)).
 - Music picks:  Radiohead, Flying Pickets, Miles Davis (I have been playing trumpet since I was 11 and was lucky enough to make a dream come true by playing at the stage of Olympic Stadium (Moscow) in front of the audience of 20k+).
