@@ -12,8 +12,7 @@ A former airline manager with a background in marketing looking for exiting oppo
 ## <a name="skills">Skills</a>
 
 ####Self-starter
-
-	I moved to the UK back in 2009 to start my second degree. It was a daunting task, I had nothing, just a bag and a placement at Queen Mary University I didn’t know anyone in London, and I barely spoke the language and had no idea what was to come next. I had to learn fast luckily is an ability I have.
+  I moved to the UK back in 2009 to start my second degree. It was a daunting task, I had nothing, just a bag and a placement at Queen Mary University I didn’t know anyone in London, and I barely spoke the language and had no idea what was to come next. I had to learn fast luckily is an ability I have.
   After leaving Queens Mary’s with a masters in Management and Organisational Innovations I landed a role in Civil Aviation. This is not a sector I was ever looking to get into and hence had no even remote idea about it or required experience I was in possession of yet still managed to make a name for myself in the industry.   
 ####Quick learner
 
@@ -29,9 +28,9 @@ A former airline manager with a background in marketing looking for exiting oppo
 
 | Project       | Repo | Description        | Technologies  |
 | ------------- |-----|:-------------| -----:|
-| [Werewolves App]| [Front end repo](https://github.com/elibar-uk/werewolves_frontend), [Back end repo](https://github.com/elibar-uk/werewolves_backend)|A mobile app for the very popular game (at Makers Academy) Werewolves, built over 2 weeks in a team of 4. | Rails, PostgreSQL, Ionic, AngularJS |
+| Werewolves App| [Front end repo](https://github.com/elibar-uk/werewolves_frontend), [Back end repo](https://github.com/elibar-uk/werewolves_backend)|A mobile app for the very popular game (at Makers Academy) Werewolves, built over 2 weeks in a team of 4. | Rails, PostgreSQL, Ionic, AngularJS |
 | [rails_cleaner](https://rubygems.org/gems/rails_cleaner)  |[Gem repo](https://github.com/elibar-uk/rails_cleaner)|A gem that allows running an executable command to remove unused files generically created by Rails.|Ruby, Rspec|
-| [MakersBnB] | [MakersBnB repo](https://github.com/elibar-uk/MakersBnB)|An AirBnb clone built using Sinatra. We were able to create the full functionality of AirBnb with users, property listings, booking requests and booking confirmations.   |  Ruby, Sinatra, Postgres /w DataMapper, Bootstrap, RSpec, Capybara|
+| MakersBnB | [MakersBnB repo](https://github.com/elibar-uk/MakersBnB)|An AirBnb clone built using Sinatra. We were able to create the full functionality of AirBnb with users, property listings, booking requests and booking confirmations.   |  Ruby, Sinatra, Postgres /w DataMapper, Bootstrap, RSpec, Capybara|
 
 ## <a name="Education">Education</a>
 
@@ -62,19 +61,19 @@ A former airline manager with a background in marketing looking for exiting oppo
 
 UK Country Manager     Transaero Airlines      Jun 2012 - Mar 2016
 Key Achievements:
-➢	e-Borders integration project (2013-2015).
-➢	Codeshare agreement with Virgin Atlantic – 2012.
-➢ Sponsorship program for Russian Olympic teams participated in London 2012 Olympic & Paralympic Games
-➢	Introduced a first class service on the UK route (2014).
-➢	Active member of the Board of Airline Representatives UK (BAR UK)
+- 	e-Borders integration project (2013-2015).
+- 	Codeshare agreement with Virgin Atlantic – 2012.
+-  Sponsorship program for Russian Olympic teams participated in London 2012 Olympic & Paralympic Games
+- 	Introduced a first class service on the UK route (2014).
+- 	Active member of the Board of Airline Representatives UK (BAR UK)
 
 Account Executive      PRP(Creative Agency)    Sep 2008 - Aug 2009   
 Key Achievements:
-➢	Recognised for the design of creative pitches for Kohler, Husquarna and Beeline (mobile network).
-➢	Organised Beeline press-conferences and promotional activities for Exxon Mobil during Bavaria Moscow City Racing 2010, Nespresso corporative events.
+- 	Recognised for the design of creative pitches for Kohler, Husquarna and Beeline (mobile network).
+- 	Organised Beeline press-conferences and promotional activities for Exxon Mobil during Bavaria Moscow City Racing 2010, Nespresso corporative events.
 
 # <a name="interests">Interests</a>
 
-Book picks: 'Brave new World' by Aldous Huxley, 'The Alchemist' by Paulo Coelho, 'One Hundred Years of Solitude' by Gabriel García Márquez.
-Art picks: Lucian Freud, Frida Kahlo, Marc Chagall (I do paint myself,  was exhibited ones in Winzavod Art Gallery (Moscow)).
-Music picks:  Radiohead, Flying Pickets, Miles Davis (Have been playing trumpet since I was 11; Was lucky enough to make a dream come true by playing at the stage of Olympic Stadium (Moscow) in front of the audience of 20k+).
+- Book picks: 'Brave new World' by Aldous Huxley, 'The Alchemist' by Paulo Coelho, 'One Hundred Years of Solitude' by Gabriel García Márquez.
+- Art picks: Lucian Freud, Frida Kahlo, Marc Chagall (I do paint myself,  was exhibited ones in Winzavod Art Gallery (Moscow)).
+- Music picks:  Radiohead, Flying Pickets, Miles Davis (Have been playing trumpet since I was 11; Was lucky enough to make a dream come true by playing at the stage of Olympic Stadium (Moscow) in front of the audience of 20k+).
