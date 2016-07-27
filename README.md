@@ -14,15 +14,15 @@ A former airline manager with a background in marketing looking for an opportuni
 ####Self-starter
 
   I moved to the UK back in 2009 to start my second degree. It was a daunting task, I had nothing, just a bag and a placement at Queen Mary University I didn’t know anyone in London, and I barely spoke the language and had no idea what was to come next. I had to learn fast luckily is an ability I have.
-  After leaving Queens Mary’s with a masters in Management and Organisational Innovations I landed a role in Civil Aviation. This is not a sector I was ever looking to get into hence had no even remote idea about it and no required experience I was in possession of yet somehow managed to make a name for myself in the industry.   
+  After leaving Queens Mary’s with a masters in Management and Organisational Innovations I landed a role in Civil Aviation. This is not a sector I was ever looking to get into hence had not even remote idea about it and no required experience I was in possession of yet somehow managed to make a name for myself in the industry.   
 
 ####Quick learner
 
-  And all it's done through constant learning. It is truly amazing how much you can actually accomplish in just a few weeks. For the Makers Academy final project still being a beginner with JavaScript, I completed a project using two brand-new technologies Ionic framework and decoupled backend. While being familiar with Rails, Ionic was not taught on the course and I managed to learn and build a fully functioning mobile app using this framework within two weeks.
+  I’ve achieved all this through constant learning. It is truly amazing how much you can actually accomplish in just a few weeks. For the Makers Academy final project still being a beginner with JavaScript, I completed a project using two brand-new technologies Ionic framework and decoupled backend. While being familiar with Rails, Ionic was not taught on the course and I managed to learn and build a fully functioning mobile app using this framework within two weeks.
 
 ####With the system of things
 
-  Being proud of my analytical mind-set I really thrive when it comes to complexity. I find it relatively easy to see the big picture. So for example, with one of the projects at Makers I've got a chance to participate in building of a gem, which helps with managing unused files within rails project. I managed to come up with quite a simple solution to the problem we were trying to solve.
+  Being proud of my analytical mind-set I really thrive when it comes to complexity. I find it relatively easy to see the big picture. So for example, with one of the projects at Makers I got the chance to participate in building a gem that tracks and removes unused files within rails project. I managed to come up with quite a simple solution to the problem we were trying to solve.
   Another example is one of the major pushes into programming for me was my work on e-Boarder integration project within the time I spent at Transaero Airlines as UK Country Manager. As you may not be aware (I hope you’re not) a few years ago the UK Government has decided to follow the US approach in advancing obtaining passenger information (APIS). I worked in collaboration with an IT Department to provide the software allowing the integration of UK Border Agency (e-Borders) into the reservation, check-in system and into the dispatch part of it as well. This required from me deep and thorough analysis of potential pitfall along all the way of the Airline's operation.  
 
 
