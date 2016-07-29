@@ -7,14 +7,14 @@
 [Education](#Education) | [Experience](#Experience) | [Interests](#Interests)
 
 ## <a name="About">About</a>
-A former airline manager with a background in marketing looking for an opportunity to start a career as web developer. Having been through a highly intensive course at [Makers Academy](http://www.makersacademy.com/about-us/) I've developed quite a passion for writing a clean, test-driven code and I am excited to take it to the next level.
+A former airline manager with a background in marketing looking for an opportunity to start a career in web development. Having completed a highly intensive course at [Makers Academy](http://www.makersacademy.com/about-us/) I am excited to take my skills to the next level.
 
 ## <a name="Skills">Skills</a>
 
 ####Self-starter
 
-  I moved to the UK back in 2009 to start my second degree. It was a daunting task, I had nothing, just a bag and a placement at Queen Mary University I didn’t know anyone in London, and I barely spoke the language and had no idea what was to come next. I had to learn fast luckily is an ability I have.
-  After leaving Queens Mary’s with a masters in Management and Organisational Innovations I landed a role in Civil Aviation. This is not a sector I was ever looking to get into hence had not even remote idea about it yet still managed to make a name for myself in the industry.
+  I moved to the UK back in 2009 to start my second degree. It was a daunting task, I had nothing, just a bag and a placement at Queen Mary University I didn’t know anyone in London. I barely spoke the language and had no idea what was to come next. I had to learn fast luckily is an ability I have.
+  After leaving Queens Mary’s with a masters in Management and Organisational Innovations I landed a role in Civil Aviation and despite being very new to the industry, I quickly made a name for myself.
 
 ####Quick learner
 
@@ -23,7 +23,7 @@ A former airline manager with a background in marketing looking for an opportuni
 ####With the system of things
 
   Being proud of my analytical mind-set I really thrive when it comes to complexity. I find it relatively easy to see the big picture. So for example, with one of the projects at Makers I got the chance to participate in building a gem that tracks and removes unused files within rails project. I managed to come up with quite a simple solution to the problem we were trying to solve.
-  Another example is my work on e-Boarder integration project within the time I spent at Transaero Airlines as UK Country Manager. As you may not be aware (I hope you’re not) a few years ago the UK Government has decided to follow the US approach in advancing obtaining passenger information (APIS). I worked in collaboration with an IT Department to provide the software allowing the integration of UK Border Agency (e-Borders) into the reservation, check-in system and into the dispatch part of it as well. This required from me deep and thorough analysis of potential pitfall along all the way of the Airline's operation.  
+  Another example is my work on e-Boarder integration project while at Transaero Airlines as UK Country Manager. As you may not be aware (I hope you’re not) a few years ago the UK Government has decided to follow the US approach in advancing obtaining passenger information (APIS). I worked in collaboration with an IT Department to provide the software allowing the integration of UK Border Agency (e-Borders) with the reservation, check-in system and into the dispatch part of it as well. This required from me deep and thorough analysis of potential pitfall along all the way of the Airline's operation.  
 
 
 ## <a name="Projects">Projects</a>
@@ -78,10 +78,10 @@ Key Achievements:
 
 ####Completely unrelated experience
 
-Throughout my life I worked with a few jazz orchestras and bands; was involved in music production also as a talent scout; done freelance marketing for restaurant chain and property development projects in Russia and CIS countries. With all that I managed to pay for all my education without taking a single loan.
+Throughout my life I worked with a few jazz orchestras and bands; was involved in music production also as a talent scout. I've done freelance marketing for restaurant chain and property development projects in Russia and CIS countries. My sound work ethic over the years has allowed me to pay for all my education without taking a single loan.
 
 ## <a name="Interests">Interests</a>
 
 - Book picks: Brave new World by Aldous Huxley, The Alchemist by Paulo Coelho, One Hundred Years of Solitude by Gabriel García Márquez.
-- Art picks: Lucian Freud, Frida Kahlo, Marc Chagall (I do paint myself,  was exhibited ones at Winzavod Art Gallery (Moscow)).
-- Music picks:  Radiohead, Flying Pickets, Miles Davis (I have been playing trumpet since I was 11 and was lucky enough to make a dream come true by playing at the stage of Olympic Stadium (Moscow) in front of the audience of 20k+).
+- Art picks: Lucian Freud, Frida Kahlo, Marc Chagall (I paint and was once exhibited ones at Winzavod Art Gallery (Moscow)).
+- Music picks:  Radiohead, Flying Pickets, Miles Davis (I’ve played the trumpet since the age of 11 and was lucky enough to make a dream come true and performed on the Olympic Stadium’s stage in Moscow to an audience of 20k+).
