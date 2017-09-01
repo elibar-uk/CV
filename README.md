@@ -1,19 +1,20 @@
 
 ## Elia Bardashevich
 
-###### <>
+######[linkedin](https://www.linkedin.com/in/elia-bardashevich-65060b28/)
 
 [About](#About) | [Skills](#Skills) | [Projects](#Projects) |
 [Education](#Education) | [Experience](#Experience) | [Interests](#Interests)
 
 ## <a name="About">About</a>
-A Junior Software Engineer, working for Venntro Media Group developing and maintaining over 20K web-sites platform. Previously was involved in managing an airline operations and had background in marketing before decided to have drastic a career change and went highly intensive course at [Makers Academy](http://www.makersacademy.com/about-us/) bootcamp to become a developer and I am so very excited to take my skills to the next level.
+A Junior Software Engineer, working for Venntro Media Group developing and maintaining over 20K web-sites platform. Previously was involved in managing an airline operations and had background in marketing before decided to have a drastic career change and went for a highly intensive course at [Makers Academy](http://www.makersacademy.com/about-us/) bootcamp to become a developer. I am so very excited to take my skills to the next level.
 
 ## <a name="Skills">Skills</a>
 
 ####Technologies I currently work with
 
   Ruby, Rails, TDD, Javascript, AngularJS, MySQL, Redis, Sphinx, RabbitMQ, AWS(S3)
+  Most recently worked on integrating with Amazon S3 to switch from Ceph storage solutions. I've done the Ruby integration side of the project. I also worked on improving emails system to cope with the scale up to 6 million a day.
 
 ####Self-starter
 
