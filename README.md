@@ -1,15 +1,19 @@
 
 ## Elia Bardashevich
 
-###### <ebardashevich@gmail.com>
+###### <>
 
 [About](#About) | [Skills](#Skills) | [Projects](#Projects) |
 [Education](#Education) | [Experience](#Experience) | [Interests](#Interests)
 
 ## <a name="About">About</a>
-A former airline manager with a background in marketing looking for an opportunity to start a career in web development. Having completed a highly intensive course at [Makers Academy](http://www.makersacademy.com/about-us/) I am excited to take my skills to the next level.
+A Junior Software Engineer, working for Venntro Media Group developing and maintaining over 20K web-sites platform. Previously was involved in managing an airline operations and had background in marketing before decided to have drastic a career change and went highly intensive course at [Makers Academy](http://www.makersacademy.com/about-us/) bootcamp to become a developer and I am so very excited to take my skills to the next level.
 
 ## <a name="Skills">Skills</a>
+
+####Technologies I currently work with
+
+  Ruby, Rails, TDD, Javascript, AngularJS, MySQL, Redis, Sphinx, RabbitMQ, AWS(S3)
 
 ####Self-starter
 
