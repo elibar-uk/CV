@@ -14,7 +14,6 @@ A Junior Software Engineer, working for Venntro Media Group developing and maint
 ####Technologies I currently work with
 
   Ruby, Rails, TDD, Javascript, AngularJS, MySQL, Redis, Sphinx, RabbitMQ, AWS(S3)
-  Most recently worked on integrating with Amazon S3 to switch from Ceph storage solutions. I've done the Ruby integration side of the project. I also worked on improving emails system to cope with the scale up to 6 million a day.
 
 ####Self-starter
 
@@ -65,6 +64,12 @@ A Junior Software Engineer, working for Venntro Media Group developing and maint
  Oxford College of Marketing
 
 ## <a name="Experience">Experience</a>
+
+Junior Software Engineer Venntro Media Group (Sep 2016..present)
+
+Key Achievements:
+-   Most recently worked on integrating with Amazon S3 to switch from Ceph storage solutions. I've done the Ruby integration side of the project.
+- I also worked on improving emails system to cope with the scale up to 6 million a day.
 
 UK Country Manager     Transaero Airlines      (Jun 2012..Mar 2016)
 
